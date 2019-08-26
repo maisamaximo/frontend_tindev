@@ -1,10 +1,4 @@
-<h1 align="center">Welcome to Tindev Frontend 👋</h1>
-<p>
-  <img alt="Version" src="https://img.shields.io/badge/version-0.1.0-blue.svg?cacheSeconds=2592000" />
-  <a href="https://twitter.com/maisamaximo_">
-    <img alt="Twitter: maisamaximo_" src="https://img.shields.io/twitter/follow/maisamaximo_.svg?style=social" target="_blank" />
-  </a>
-</p>
+<h1 align="center">[Frontend] Tindev❕ 🔥</h1>
 
 > Project developed during the 'Omnistack 0.8' week. Stack - node, react and react native.
 
@@ -20,15 +14,9 @@ npm install
 npm dev
 ```
 
-## Run tests
-
-```sh
-npm run test
-```
-
 ## Author
 
-👤 **Maisa Maximo**
+👩‍🚒 **Maisa Maximo**
 
 * Twitter: [@maisamaximo_](https://twitter.com/maisamaximo_)
 * Github: [@maisamaximo](https://github.com/maisamaximo)
